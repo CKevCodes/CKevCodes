@@ -32,9 +32,13 @@ I’m an aspiring Web Developer learning to build full-stack web applications, f
 
 ## GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=CKevCodes&show_icons=true&theme=tokyonight" alt="Stats Card" height="190px" />         <img src="https://github-readme-streak-stats.herokuapp.com/?user=CKevCodes&theme=tokyonight" alt="Streak Card" height="190px" /> 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CKevCodes&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" height="185px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CKevCodes&theme=tokyonight&hide_border=true" alt="Streak Card" height="185px" />
+</p>
 
----
+<br />
 
 <p align="center">
   <i>"Building today, learning tomorrow, and keeping everything well in between."</i>
