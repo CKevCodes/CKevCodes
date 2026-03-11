@@ -41,5 +41,5 @@ I’m an aspiring Web Developer learning to build full-stack web applications, f
 ---
 
 <p align="center">
-  <i>"Code clean, mind clear, all is well."</i>
+  <i>"Building today, learning tomorrow, and keeping everything well in between."</i>
 </p>
