@@ -38,7 +38,6 @@ I’m an aspiring Web Developer learning to build full-stack web applications, f
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CKevCodes&theme=tokyonight&hide_border=true" alt="Streak Card" height="185px" />
 </p>
 
-<br />
 
 <p align="center">
   <i>"Building today, learning tomorrow, and keeping everything well in between."</i>
