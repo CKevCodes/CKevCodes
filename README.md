@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Clark 
 
-I’m an aspiring Full-Stack Web Developer learning to build full-stack web applications, focusing on backend development, systems-oriented programming, and data-driven solutions. I’m gaining experience with JavaScript, TypeScript, HTML & CSS, TailwindCSS, React, Node.js, Express.js, Vite, Expo, Python, Django, FastAPI, C#, SQLite, MySQL, MS SQL, Git & GitHub, and other technologies as I grow toward professional roles in web development and data engineering. I also have experience with C, Java, MongoDB, Unity Engine, Arduino, Python GUI development using Tkinter, data analysis using Pandas, and Windows Forms (C#) for desktop UI development. Passionate about problem-solving and continuous learning, I use this GitHub to showcase my projects, experiments, and ongoing journey in software engineering.
+I’m an aspiring Full-Stack Web Developer learning to build full-stack web applications, focusing on backend development, systems-oriented programming, and data-driven solutions. I’m gaining experience with JavaScript, TypeScript, HTML & CSS, TailwindCSS, React, Node.js, Express.js, Vite, Expo, Python, Django, FastAPI, C#, SQLite, MySQL, MS SQL, Git & GitHub, and other technologies as I grow toward professional roles in web development and data engineering. I also have experience with C, Java, MongoDB, Unity Engine, Arduino, Python GUI development using Tkinter, data analysis using Pandas and NumPy, and Windows Forms (C#) for desktop UI development. Passionate about problem-solving and continuous learning, I use this GitHub to showcase my projects, experiments, and ongoing journey in software engineering.
 
 ---
 
@@ -38,6 +38,7 @@ I’m an aspiring Full-Stack Web Developer learning to build full-stack web appl
 ![Arduino](https://img.shields.io/badge/arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/tkinter-python%20gui-blue.svg?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-data%20analysis-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-scientific%20computing-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
